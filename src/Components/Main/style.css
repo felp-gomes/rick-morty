@@ -1,0 +1,42 @@
+main {
+  margin: 2rem 2rem 0rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+main .posts {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  background: linear-gradient(
+    90deg,
+    rgba(115, 159, 182, 1) 0%,
+    rgba(35, 0, 164, 1) 100%
+  );
+  border-radius: 15px;
+  width: 22.3rem;
+  padding: 2rem;
+}
+
+main .posts img {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+}
+
+main h1 {
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  text-align: center;
+  margin-top: 7rem;
+  margin-bottom: 1rem;
+}
+
+main .not-find-search img {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
