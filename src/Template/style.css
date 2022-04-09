@@ -72,7 +72,7 @@ nav input::-webkit-search-cancel-button {
   visibility: hidden;
 }
 
-.navigation-pages .page h1 {
+.navigation-pages .page p {
   font-weight: 800;
   font-size: 25px;
 }
