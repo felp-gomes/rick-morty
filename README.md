@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Rick And Morty - API
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>
+  🗈 Description:
+</h2>
+<p>
+  → Website that contains all the characters from Rick and Morty.
+</P>
 
-## Available Scripts
+<br>
+<br>
+<hr>
+<br>
+<br>
 
-In the project directory, you can run:
 
-### `npm start`
+<h2>
+  ✓ How:
+</h2>
+<p>
+  → Making requests to the Rick and Morty API, https://rickandmortyapi.com/, the Rick and Morty characters and their characteristics are placed on the website.
+</P>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
+<br>
+<hr>
+<br>
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>
+  💻 Technologies:
+</h2>
+<p>
+  → HTML;
+</P>
+<p>
+  → CSS;
+</P>
+<p>
+  → JavaScript;
+</P>
+<p>
+  → ReactJs.
+</P>
 
-### `npm test`
+<br>
+<br>
+<hr>
+<br>
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<h2>
+  🖼 Images:
+</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="https://user-images.githubusercontent.com/83621438/162592771-f1b1c2be-467a-4f78-9000-c7e80b655a91.png" alt="Rick And Morty">
+<br>
+<img src="https://user-images.githubusercontent.com/83621438/162592787-8813f482-7bbb-4d8c-a329-ff5d257cc3ac.png" alt="Rick And Morty">
+<br>
+<img src="https://user-images.githubusercontent.com/83621438/162592789-fa2d3a90-0a48-45d3-b489-0abfb5ba9143.png" alt="Rick And Morty">
