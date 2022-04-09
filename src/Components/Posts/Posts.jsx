@@ -11,7 +11,7 @@ export const Posts = ({
 }) => {
   return (
     <>
-      <img src={img} alt={`Image ${alt}`} />
+      <img src={img} alt={`${alt}`} />
       <div className='description'>
         <h3>{name}</h3>
         <p>
